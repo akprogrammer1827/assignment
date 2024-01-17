@@ -68,18 +68,6 @@ class HomeController extends GetxController {
     update();
   }
 
-  @override
-  void onReady() {
-    super.onReady();
-  }
-
-  @override
-  void onClose() {
-    super.onClose();
-  }
-
-  void increment() => count.value++;
-
   String? currentAddress;
   Position? currentPosition;
 
