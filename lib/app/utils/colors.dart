@@ -1,0 +1,28 @@
+import 'package:flutter/material.dart';
+
+const Color primary = Color(0xff0d253f);
+const Color tertiary = Color(0xff90cea1);
+const Color splashBackground = Color(0xffE8ECEE);
+const Color buttonBackground = Color(0xff0C74BC);
+const Color dashboardTile1 = Color(0xffC6E6F7);
+const Color dashboardTile2 = Color(0xff76B4D9);
+const Color scaffoldBackground = Color(0xffF5F5F5);
+const Color white = Colors.white;
+const Color black = Colors.black;
+const Color lightBlack = Color(0xff242424);
+const Color black41 = Color(0xff414141);
+const Color cancelColor = Color(0xffEB4335);
+const Color textFieldBorder = Color(0xffEDEDED);
+const Color onBoardingBackground = Color(0xffCFE7FF);
+const Color errorMessageColor = Color(0xff7C7C7C);
+const Color searchBarLabelColor = Color(0xffAAAAAA);
+const Color dottedLineColor = Color(0xffCACBE7);
+const Color textColor = Color(0xff0C74BC);
+const Color blueText = Color(0xff0C74BC);
+const Color blueText1 = Color(0xff729CFE);
+const Color grey = Colors.grey;
+const Color green = Colors.green;
+const Color red = Colors.red;
+const Color blue = Colors.blue;
+const Color orangeText = Color(0xffEC6D26);
+const Color addedColor = Color(0xff727270);
